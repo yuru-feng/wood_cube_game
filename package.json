@@ -1,0 +1,18 @@
+{
+  "name": "wood-cube",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "gl-noise": "^1.6.1",
+    "three": "^0.158.0",
+    "three-custom-shader-material": "^5.4.0"
+  }
+}
